@@ -1,8 +1,5 @@
 # Olá, eu sou Eric! 👋 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luisericlima&label=Visualizações+no+Perfil&color=0e75b6&style=flat" alt="Visualizações no Perfil" />
-</p>
 
 Sou um **QA Engineer** (Analista de Qualidade) com foco em garantir a excelência do software e proporcionar a satisfação do cliente final. Minha experiência abrange o planejamento e execução de diversos tipos e níveis de testes, além de uma participação ativa em metodologias ágeis.
 
@@ -49,6 +46,5 @@ Busco ativamente aprimorar processos de QA e automação, focando em eficiência
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisericlima&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" alt="Eric's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisericlima&layout=compact&langs_count=5&theme=buefy" alt="Top Languages" />
 </p>
