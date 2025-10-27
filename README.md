@@ -14,7 +14,7 @@ Minhas qualificações técnicas abrangem um sólido conhecimento em diversas li
 | **Web & API** | Cypress, Robot Framework, Playwright, Selenium, Postman/Newman, Apidog, Rest Assured (com Java) | BDD, Cucumber, HTML, CSS, JavaScript, Java |
 | **Mobile** | Robot Framework + Appium | - |
 | **Performance** | JMeter, K6 | - |
-| **Geral** | Testes de integração, funcionais, não funcionais, regressão, smoke, exploratórios | Consultas e validações em bancos de dados (Oracle e NoSQL) |
+| **Geral** | Testes de integração, funcionais, não funcionais, regressão, smoke, exploratórios | Consultas e validações em bancos de dados (SQL e NoSQL) |
 
 ### 🛠️ Gerenciamento e Processos
 
